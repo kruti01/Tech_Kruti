@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct StoryboardIdentifier {
+    static let userDetailsVC = "UserDetailsViewController"
+}

@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct URLIdentifier {
+    static let baseURL = "https://jsonplaceholder.typicode.com/"
+    static let userDetailURL = "/posts?_page="
+}
